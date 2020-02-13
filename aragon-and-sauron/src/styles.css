@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+html {
+  background-image: url("http://2.bp.blogspot.com/-dJ3RTD3SOjo/UMzX-Xuw7LI/AAAAAAAAC1o/NQpHMd9cNhc/s1600/1355015033709.jpg");
+  background-position: 60% 20%;
+  background-color: black;
+}
+
+div {
+  color: papayawhip;
+}
+
+button {
+  margin-top: 1%;
+}
