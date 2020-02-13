@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  background-color: black;
+  color: darkolivegreen;
+  padding: 2% 10%;
+  font-size: 2rem;
+}
+
+div {
+  font-size: 2rem;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
